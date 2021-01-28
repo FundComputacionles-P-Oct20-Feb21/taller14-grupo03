@@ -1,0 +1,28 @@
+1.- introduccion -Fabian-
+	Que es la ciencia de datos conocimientos
+	https://www.maximaformacion.es/blog-dat/que-es-la-ciencia-de-datos/
+
+2.- Python -Michael-
+	Python  y  anaconda
+	librerias
+
+3.- Julia -Michael-
+	librerias
+
+4.- Java -Erika-
+	librerias
+
+5.- SQL -Joel-
+	librerias
+
+6.- Scala -Erika-
+	librerias
+
+7.- MathLab -Fabian-
+	librerias
+
+8.- R -Joel-
+	librerias
+
+7.- Hadoop -Erika-
+	librerias
